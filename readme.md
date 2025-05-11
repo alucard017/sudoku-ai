@@ -1,4 +1,4 @@
-# Sudoku AI Solver
+# Sudoku AI
 
 ## Overview
 
