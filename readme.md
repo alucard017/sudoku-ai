@@ -104,6 +104,6 @@ The algorithm continues until the puzzle is solved or it is determined that no s
    ```
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sudoku-ai.git
+   git clone https://github.com/alucard017/sudoku-ai.git
    cd sudoku-ai
    ```
