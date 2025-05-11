@@ -106,4 +106,6 @@ The algorithm continues until the puzzle is solved or it is determined that no s
    ```bash
    git clone https://github.com/alucard017/sudoku-ai.git
    cd sudoku-ai
+   npm install
+   npm run start or npm run dev
    ```
