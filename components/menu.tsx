@@ -30,7 +30,7 @@ export default function Menu({
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.1 }}
       >
-        Sudoku Game
+        Sudoku AI
       </motion.h1>
 
       <div className="space-y-4">
